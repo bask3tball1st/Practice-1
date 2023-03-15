@@ -1,4 +1,4 @@
 3
 NotaBene Science 200000 500 Scientists state
 Avanta+ Childlike 15000 200 Kindergartens state
-Education Scahool 200000 500 Pupils state
+Education School 200000 500 Pupils state
